@@ -3,6 +3,8 @@
 ## Overview
 An interactive dashboard for analyzing Paying Guest (PG) accommodations using Python and Streamlit. The project provides comprehensive insights into PG data through visualizations and filters.
 
+# **Live Demo**: [Banglore PG Analysis Dashboard](https://banglorepganalysis-pt4trpfkrsbzobkgsgmawt.streamlit.app/)
+
 ## Tech Stack
 - **Python 3.11**
 - **Core Libraries**:
