@@ -3,7 +3,7 @@ import numpy as np
 
 # Create sample data
 np.random.seed(42)
-n_samples = 100
+n_samples = 1000
 
 data = {
     'location': np.random.choice(['Koramangala', 'HSR Layout', 'Indiranagar', 'BTM Layout', 'Whitefield'], n_samples),
